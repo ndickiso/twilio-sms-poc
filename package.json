@@ -1,0 +1,25 @@
+{
+  "name": "verse-me",
+  "version": "0.0.0",
+  "description": "a simple sms bible verse app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ndickiso/verse-me"
+  },
+  "keywords": [
+    "bible",
+    "verse",
+    "sms",
+    "app"
+  ],
+  "author": "Nate Dickison",
+  "license": "none",
+  "bugs": {
+    "url": "https://github.com/ndickiso/verse-me/issues"
+  },
+  "homepage": "https://github.com/ndickiso/verse-me"
+}
