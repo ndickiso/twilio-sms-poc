@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/ndickiso/verse-me",
   "dependencies": {
-    "hapi": "~9.3.0"
+    "hapi": "~9.3.0",
+    "twilio": "~2.3.0"
   }
 }
